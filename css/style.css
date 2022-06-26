@@ -343,6 +343,7 @@ h6 {
   margin: 0 auto;
   font-weight: 700;
   position: relative;
+  display: block;
 }
 
 @supports (font-size: clamp( 1.25rem , 1.0227272727rem  +  1.1363636364vw , 1.875rem )) {
